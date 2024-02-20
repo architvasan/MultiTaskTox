@@ -1,0 +1,201 @@
+TAID,Name,IUPAC Name,PubChem CID,Canonical SMILES,InChIKey,Toxicity Value
+TOX-1346,,N-[(4-hydroxy-3-methoxyphenyl)methyl]-8-methylnon-6-enamide,2548,COc1cc(CNC(=O)CCCCC=CC(C)C)ccc1O,YKPUWZUDDOIDPM-UHFFFAOYSA-N,511.9698249
+TOX-1798,butenafine,1-(4-tert-butylphenyl)-N-methyl-N-(naphthalen-1-ylmethyl)methanamine,2484,CN(Cc1ccc(C(C)(C)C)cc1)Cc1cccc2ccccc12,ABJKWBDEJIDSJZ-UHFFFAOYSA-N,800.0604767
+TOX-2076,METRIBUZIN,"4-amino-6-tert-butyl-3-methylsulfanyl-1,2,4-triazin-5-one",30479,CSc1nnc(C(C)(C)C)c(=O)n1N,FOXFZRUHNHCZPX-UHFFFAOYSA-N,999.9813351
+TOX-2097,,"N,N-dimethylacetamide",31374,CC(=O)N(C)C,FXHOOIRPVKKKFG-UHFFFAOYSA-N,9599.779611
+TOX-2112,mechlorethamine,2-chloro-N-(2-chloroethyl)-N-methylethanamine,4033,CN(CCCl)CCCl,HAWPXGHAZFHHAD-UHFFFAOYSA-N,28.99888502
+TOX-2156,phenol,phenol,996,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,7499.760927
+TOX-2479,,"[9-fluoro-11-hydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-3-oxo-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-17-yl] pentanoate",578771,CCCCC(=O)OC1(C(=O)CO)C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC21C,SNHRLVCMMWUAJD-UHFFFAOYSA-N,1784.05615
+TOX-2501,bufexamac,2-(4-butoxyphenyl)-N-hydroxyacetamide,2466,CCCCOc1ccc(CC(=O)NO)cc1,MXJWRABVEGLYDG-UHFFFAOYSA-N,4999.955215
+TOX-2725,,"1,1,2,3,4,4-hexachlorobuta-1,3-diene",6901,ClC(Cl)=C(Cl)C(Cl)=C(Cl)Cl,RWNKSTSCBHKHTB-UHFFFAOYSA-N,150.0218591
+TOX-3148,glutaraldehyde,pentanedial,3485,O=CCCCC=O,SXRSQZLOMIGNAQ-UHFFFAOYSA-N,5840.175001
+TOX-4089,PHENTHOATE,ethyl 2-dimethoxyphosphinothioylsulfanyl-2-phenylacetate,17435,CCOC(=O)C(SP(=S)(OC)OC)c1ccccc1,XAMUDJHXFNRLCY-UHFFFAOYSA-N,2620.228984
+TOX-4113,TRICHLORFON,"2,2,2-trichloro-1-dimethoxyphosphorylethanol",5853,COP(=O)(OC)C(O)C(Cl)(Cl)Cl,NFACJZMKEDPNKN-UHFFFAOYSA-N,1709.953505
+TOX-4248,bronopol,"2-bromo-2-nitropropane-1,3-diol",2450,O=[N+]([O-])C(Br)(CO)CO,LVDKZNITIUWNER-UHFFFAOYSA-N,4750.047498
+TOX-4287,fenthion,dimethoxy-(3-methyl-4-methylsulfanylphenoxy)-sulfanylidene-lambda5-phosphane,3346,COP(=S)(OC)Oc1ccc(SC)c(C)c1,PNVJTZOFSHSLTO-UHFFFAOYSA-N,499.9371261
+TOX-4301,Tributyltin oxide,tributyl(tributylstannyloxy)stannane,16682746,CCCC[Sn](CCCC)(CCCC)O[Sn](CCCC)(CCCC)CCCC,APQHKWPGGHMYKJ-UHFFFAOYSA-N,162.9953515
+TOX-4304,parathion,diethoxy-(4-nitrophenoxy)-sulfanylidene-lambda5-phosphane,991,CCOP(=S)(OCC)Oc1ccc([N+](=O)[O-])cc1,LCCNCVORNKJIRZ-UHFFFAOYSA-N,18.99967382
+TOX-4314,METEPA,1-bis(2-methylaziridin-1-yl)phosphoryl-2-methylaziridine,60976,CC1CN1P(=O)(N1CC1C)N1CC1C,AVUYXHYHTTVPRX-UHFFFAOYSA-N,374.9878045
+TOX-4351,dimethoate,2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide,3082,CNC(=O)CSP(=S)(OC)OC,MCWXGJITAZMZEV-UHFFFAOYSA-N,1000.161387
+TOX-4374,dichlorvos,"2,2-dichloroethenyl dimethyl phosphate",3039,COP(=O)(OC)OC=C(Cl)Cl,OEBRKCOSUFCWJD-UHFFFAOYSA-N,205.9944064
+TOX-4375,FLUOROACETIC ACID,2-fluoroacetic acid,5237,O=C(O)CF,QEWYKACRFQMRMB-UHFFFAOYSA-N,25.29935166
+TOX-4575,TABUN,[dimethylamino(ethoxy)phosphoryl]formonitrile,6500,CCOP(=O)(C#N)N(C)C,PJVJTCIRVMBVIA-UHFFFAOYSA-N,1.000006168
+TOX-4643,METHYL CHLOROFORMATE,methyl carbonochloridate,6586,COC(=O)Cl,XMJHPCRAQCTCFT-UHFFFAOYSA-N,1750.055559
+TOX-4649,METHACRYLAMIDE,2-methylprop-2-enamide,6595,C=C(C)C(N)=O,FQPSGWSUVKBHSU-UHFFFAOYSA-N,5999.576994
+TOX-4782,Benzyl butyl phthalate,"2-O-benzyl 1-O-butyl benzene-1,2-dicarboxylate",2347,CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1,IRIAEXORFWYRCZ-UHFFFAOYSA-N,6700.750728
+TOX-4799,Azinphos-methyl,"3-(dimethoxyphosphinothioylsulfanylmethyl)-1,2,3-benzotriazin-4-one",2268,COP(=S)(OC)SCn1nnc2ccccc2c1=O,CJJOSEISRRTUQB-UHFFFAOYSA-N,64.99344539
+TOX-4841,pentachlorophenol,"2,3,4,5,6-pentachlorophenol",992,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,IZUPBVBPLAPZRR-UHFFFAOYSA-N,123.9823082
+TOX-5132,SOMAN,"3-[fluoro(methyl)phosphoryl]oxy-2,2-dimethylbutane",7305,CC(OP(C)(=O)F)C(C)(C)C,GRXKLBBBQUKJJZ-UHFFFAOYSA-N,7.799785911
+TOX-5150,Ethyl chrysanthemate,"ethyl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate",7334,CCOC(=O)C1C(C=C(C)C)C1(C)C,VIMXTGUGWLAOFZ-UHFFFAOYSA-N,4999.999996
+TOX-5221,,"2,6-dichloro-4-nitroaniline",7430,Nc1c(Cl)cc([N+](=O)[O-])cc1Cl,BIXZHMJUSMUDOQ-UHFFFAOYSA-N,4999.855089
+TOX-5538,Oxydiethylene bis(chloroformate),2-(2-carbonochloridoyloxyethoxy)ethyl carbonochloridate,7828,O=C(Cl)OCCOCCOC(=O)Cl,XFSAZBKSWGOXRH-UHFFFAOYSA-N,3399.985282
+TOX-5551,,2-chloroethanol,34,OCCCl,SZIFAVKTNFCBPC-UHFFFAOYSA-N,17.99910575
+TOX-5571,SARIN,2-[fluoro(methyl)phosphoryl]oxypropane,7871,CC(C)OP(C)(=O)F,DYAHQFWOVKZOOW-UHFFFAOYSA-N,1.079969164
+TOX-5574,TEPP,diethoxyphosphoryl diethyl phosphate,7873,CCOP(=O)(OCC)OP(=O)(OCC)OCC,IDCBOTIENDVCBQ-UHFFFAOYSA-N,8.000027567
+TOX-5608,Isopropyl chloroformate,propan-2-yl carbonochloridate,7917,CC(C)OC(=O)Cl,IVRIRQXJSNCSPQ-UHFFFAOYSA-N,11.99990209
+TOX-5674,Propyl chloroformate,propyl carbonochloridate,7998,CCCOC(=O)Cl,QQKDTTWZXHEGAQ-UHFFFAOYSA-N,9.99991841
+TOX-5843,propoxur,(2-propan-2-yloxyphenyl) N-methylcarbamate,4944,CNC(=O)Oc1ccccc1OC(C)C,ISRUGXGCCGIOQO-UHFFFAOYSA-N,1359.967501
+TOX-5931,PYRIDAPHENTHION,6-diethoxyphosphinothioyloxy-2-phenylpyridazin-3-one,8381,CCOP(=S)(OCC)Oc1ccc(=O)n(-c2ccccc2)n1,CXJSOEPQXUCJSA-UHFFFAOYSA-N,659.9980608
+TOX-5967,Dichlorprop,"2-(2,4-dichlorophenoxy)propanoic acid",8427,CC(Oc1ccc(Cl)cc1Cl)C(=O)O,MZHCENGPTKEIGP-UHFFFAOYSA-N,1399.964264
+TOX-6038,FENITROTHION,dimethoxy-(3-methyl-4-nitrophenoxy)-sulfanylidene-lambda5-phosphane,31200,COP(=S)(OC)Oc1ccc([N+](=O)[O-])c(C)c1,ZNOLGFHPUIJIMJ-UHFFFAOYSA-N,2500.018032
+TOX-6114,,2-carbonochloridoyloxyethyl carbonochloridate,31282,O=C(Cl)OCCOC(=O)Cl,FMACOGSACRRIMK-UHFFFAOYSA-N,1999.91443
+TOX-6304,Diamthazole,"6-[2-(diethylamino)ethoxy]-N,N-dimethyl-1,3-benzothiazol-2-amine",8708,CCN(CC)CCOc1ccc2nc(N(C)C)sc2c1,WGMYEOIMVYADRJ-UHFFFAOYSA-N,1055.870445
+TOX-6356,ETHYL ACRYLATE,ethyl prop-2-enoate,8821,C=CC(=O)OCC,JIGUQPWFLRLWPJ-UHFFFAOYSA-N,2997.089802
+TOX-6578,,dimethoxy-(4-nitrophenoxy)-sulfanylidene-lambda5-phosphane,4130,COP(=S)(OC)Oc1ccc([N+](=O)[O-])cc1,RLBIQVVOMOPOHC-UHFFFAOYSA-N,1199.995441
+TOX-6581,disulfoton,diethoxy-(2-ethylsulfanylethylsulfanyl)-sulfanylidene-lambda5-phosphane,3118,CCOP(=S)(OCC)SCCSCC,DOFZAZXDOSGAJZ-UHFFFAOYSA-N,15.59926098
+TOX-6595,naled,"(1,2-dibromo-2,2-dichloroethyl) dimethyl phosphate",4420,COP(=O)(OC)OC(Br)C(Cl)(Cl)Br,BUYMVQAILCEWRR-UHFFFAOYSA-N,599.9936976
+TOX-6659,Mexacarbate,"[4-(dimethylamino)-3,5-dimethylphenyl] N-methylcarbamate",9414,CNC(=O)Oc1cc(C)c(N(C)C)c(C)c1,YNEVBPNZHBAYOA-UHFFFAOYSA-N,106.9961491
+TOX-6734,diazinon,diethoxy-(6-methyl-2-propan-2-ylpyrimidin-4-yl)oxy-sulfanylidene-lambda5-phosphane,3017,CCOP(=S)(OCC)Oc1cc(C)nc(C(C)C)n1,FHIVAFMUCKRCQO-UHFFFAOYSA-N,2749.98193
+TOX-6800,,N-(4-bromophenyl)-2-fluoroacetamide,9593,O=C(CF)Nc1ccc(Br)cc1,ACCDBHBOYZJSDT-UHFFFAOYSA-N,70.99938809
+TOX-6840,Diethyl fluorophosphate,1-[ethoxy(fluoro)phosphoryl]oxyethane,67752,CCOP(=O)(F)OCC,WXSIQKMFCCUZFJ-UHFFFAOYSA-N,34.99932734
+TOX-7217,Chlorfenvinphos,"[2-chloro-1-(2,4-dichlorophenyl)ethenyl] diethyl phosphate",10107,CCOP(=O)(OCC)OC(=CCl)c1ccc(Cl)cc1Cl,FSAVDKDHPDSCTO-UHFFFAOYSA-N,336.02523
+TOX-7280,BINAPACRYL,"(2-butan-2-yl-4,6-dinitrophenyl) 3-methylbut-2-enoate",10234,CCC(C)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1OC(=O)C=C(C)C,ZRDUSMYWDRPZRM-UHFFFAOYSA-N,749.9837113
+TOX-7405,Mustard gas,1-chloro-2-(2-chloroethylsulfanyl)ethane,10461,ClCCSCCCl,QKSKPIVNLNLAAV-UHFFFAOYSA-N,91.99942168
+TOX-7607,DAZOMET,"3,5-dimethyl-1,3,5-thiadiazinane-2-thione",10788,CN1CSC(=S)N(C)C1,QAYICIQNSGETAS-UHFFFAOYSA-N,2400.251412
+TOX-7639,,2-chloro-N-(2-chloroethyl)-N-ethylethanamine,10848,CCN(CCCl)CCCl,UQZPGHOJMQTOHB-UHFFFAOYSA-N,12.99977071
+TOX-7681,Chlorvinyldichlorarsin,dichloro(2-chloroethenyl)arsane,10923,ClC=C[As](Cl)Cl,GIKLTQKNOXNBNY-UHFFFAOYSA-N,11.99947907
+TOX-7705,Cellocidin,but-2-ynediamide,10971,NC(=O)C#CC(N)=O,JBTGHKUTYAMZEZ-UHFFFAOYSA-N,667.0119016
+TOX-7800,trichlormethine,"2-chloro-N,N-bis(2-chloroethyl)ethanamine",5561,ClCCN(CCCl)CCCl,FDAYLTPAFBGXAB-UHFFFAOYSA-N,6.999041689
+TOX-7808,METHYL ISOTHIOCYANATE,methylimino(sulfanylidene)methane,11167,CN=C=S,LGDSHSYDSCRFAB-UHFFFAOYSA-N,1819.999999
+TOX-7886,,"2,6-dimethylphenol",11335,Cc1cccc(C)c1O,NXXYKOUNUYWIHA-UHFFFAOYSA-N,919.947285
+TOX-8301,METHYL ISOCYANATE,methylimino(oxo)methane,12228,CN=C=O,HAMGRBXTJNITHG-UHFFFAOYSA-N,1819.936197
+TOX-8447,FLUOROACETAMIDE,2-fluoroacetamide,12542,NC(=O)CF,FVTWJXMFYOXOKK-UHFFFAOYSA-N,34.00088244
+TOX-8460,DIMETILAN,"[1-(dimethylcarbamoyl)-5-methylpyrazol-3-yl] N,N-dimethylcarbamate",12572,Cc1cc(OC(=O)N(C)C)nn1C(=O)N(C)C,RDBIYWSVMRVKSG-UHFFFAOYSA-N,89.99887625
+TOX-8587,Half mustard gas,2-(2-chloroethylsulfanyl)ethanol,12737,OCCSCCCl,ZGFPMAMREQRRRB-UHFFFAOYSA-N,599.9786684
+TOX-8609,Dichlorophenylarsine,dichloro(phenyl)arsane,12762,Cl[As](Cl)c1ccccc1,UDHDFEGCOJAVRE-UHFFFAOYSA-N,3.999928231
+TOX-8847,,1-butylpyrrolidine,69843,CCCCN1CCCC1,JSHASCFKOSDFHY-UHFFFAOYSA-N,819.9935555
+TOX-8884,m-tert-Butylphenyl methylcarbamate,(3-tert-butylphenyl) N-methylcarbamate,13072,CNC(=O)Oc1cccc(C(C)(C)C)c1,FSJYRLHKLVGCNH-UHFFFAOYSA-N,2659.961498
+TOX-8964,Trimethylolpropane phosphite,"4-ethyl-2,6,7-trioxa-1-phosphabicyclo[2.2.2]octane",13210,CCC12COP(OC1)OC2,QRUSNTDXJQBKBI-UHFFFAOYSA-N,3.999876636
+TOX-8990,Aminozectran,"(4-amino-3,5-dimethylphenyl) N-methylcarbamate",13252,CNC(=O)Oc1cc(C)c(N)c(C)c1,WUCVFDPUWPSAKL-UHFFFAOYSA-N,6.999855844
+TOX-9914,METOLCARB,(3-methylphenyl) N-methylcarbamate,14322,CNC(=O)Oc1cccc(C)c1,VOEYXMAFNDNNED-UHFFFAOYSA-N,1999.975784
+TOX-10094,Dimethylcyanamide,dimethylcyanamide,15112,CN(C)C#N,OAGOUCJGXNLJNL-UHFFFAOYSA-N,124.9910836
+TOX-10426,,"N,N-diethylbenzamide",15542,CCN(CC)C(=O)c1ccccc1,JLNGEXDJAQASHD-UHFFFAOYSA-N,1699.932862
+TOX-10672,Chlornitrofen,"1,3,5-trichloro-2-(4-nitrophenoxy)benzene",15788,O=[N+]([O-])c1ccc(Oc2c(Cl)cc(Cl)cc2Cl)cc1,XQNAUQUKWRBODG-UHFFFAOYSA-N,9998.650101
+TOX-11081,AMINOCARB,[4-(dimethylamino)-3-methylphenyl] N-methylcarbamate,16247,CNC(=O)Oc1ccc(N(C)C)c(C)c1,IMIDOCRTMDIQIJ-UHFFFAOYSA-N,30.99985112
+TOX-11152,,N-ethyl-N-(pyridin-3-ylmethyl)ethanamine,74927,CCN(CC)Cc1cccnc1,UEUUOSYQIZIXMD-UHFFFAOYSA-N,1049.987216
+TOX-11189,Blasticidin S,"3-[[3-amino-5-[carbamimidoyl(methyl)amino]pentanoyl]amino]-6-(4-amino-2-oxopyrimidin-1-yl)-3,6-dihydro-2H-pyran-2-carboxylic acid",258,CN(CCC(N)CC(=O)NC1C=CC(n2ccc(N)nc2=O)OC1C(=O)O)C(=N)N,CXNPLSGKWMLZPZ-UHFFFAOYSA-N,219.9760445
+TOX-11234,,ethoxy-(4-nitrophenoxy)-phenyl-sulfanylidene-lambda5-phosphane,16421,CCOP(=S)(Oc1ccc([N+](=O)[O-])cc1)c1ccccc1,AIGRXSNSLVJMEA-UHFFFAOYSA-N,347.9999997
+TOX-11450,Dienochlor,"1,2,3,4,5-pentachloro-5-(1,2,3,4,5-pentachlorocyclopenta-2,4-dien-1-yl)cyclopenta-1,3-diene",16686,ClC1=C(Cl)C(Cl)(C2(Cl)C(Cl)=C(Cl)C(Cl)=C2Cl)C(Cl)=C1Cl,LWLJUMBEZJHXHV-UHFFFAOYSA-N,4999.578628
+TOX-11544,VAMIDOTHION,2-(2-dimethoxyphosphorylsulfanylethylsulfanyl)-N-methylpropanamide,560193,CNC(=O)C(C)SCCSP(=O)(OC)OC,LESVOLZBIFDZGS-UHFFFAOYSA-N,1459.781515
+TOX-11595,,(4-dimethylsilylphenyl)-dimethylsilane,75601,C[SiH](C)c1ccc([SiH](C)C)cc1,KQERVIARWMHFOS-UHFFFAOYSA-N,2999.907417
+TOX-11614,OXYDISULFOTON,diethoxy-(2-ethylsulfinylethylsulfanyl)-sulfanylidene-lambda5-phosphane,17242,CCOP(=S)(OCC)SCCS(=O)CC,UPUGLJYNCXXUQV-UHFFFAOYSA-N,262.9891328
+TOX-11692,FORMOTHION,2-dimethoxyphosphinothioylsulfanyl-N-formyl-N-methylacetamide,17345,COP(=S)(OC)SCC(=O)N(C)C=O,AIKKULXCBHRFOS-UHFFFAOYSA-N,400.0419791
+TOX-11829,Isoprocarb,(2-propan-2-ylphenyl) N-methylcarbamate,17517,CNC(=O)Oc1ccccc1C(C)C,QBSJMKIUCUGGNG-UHFFFAOYSA-N,1619.9497
+TOX-11834,CYANOPHOS,4-dimethoxyphosphinothioyloxybenzonitrile,17522,COP(=S)(OC)Oc1ccc(C#N)cc1,SCKHCCSZFPSHGR-UHFFFAOYSA-N,1999.967108
+TOX-11894,Oxydeprofos,2-dimethoxyphosphorylsulfanyl-1-ethylsulfinylpropane,91523,CCS(=O)CC(C)SP(=O)(OC)OC,JAYZFNIOOYPIAH-UHFFFAOYSA-N,1099.928166
+TOX-11912,Bietamiverine,2-(diethylamino)ethyl 2-phenyl-2-piperidin-1-ylacetate,72064,CCN(CC)CCOC(=O)C(c1ccccc1)N1CCCCC1,JGTJANXYSNVLMQ-UHFFFAOYSA-N,502.0614773
+TOX-11982,,"2-(10-hydroxy-3,7,9,11-tetramethyltrideca-2,5,7,11-tetraenyl)-5,6-dimethoxy-3-methyl-1H-pyridin-4-one",4285633,CC=C(C)C(O)C(C)C=C(C)C=CCC(C)=CCc1[nH]c(OC)c(OC)c(=O)c1C,BBLGCDSLCDDALX-UHFFFAOYSA-N,2.52015766
+TOX-11988,,"2-(2-phenylhydrazinyl)cyclohepta-2,4,6-trien-1-one",3014123,O=c1cccccc1NNc1ccccc1,SLRYANZZBALGOE-UHFFFAOYSA-N,999.9905777
+TOX-12041,Quinoclamine,"2-amino-3-chloronaphthalene-1,4-dione",17748,NC1=C(Cl)C(=O)c2ccccc2C1=O,OBLNWSCLAYSJJR-UHFFFAOYSA-N,1999.9422
+TOX-12260,chlorpyrifos,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",2730,CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl,SBPBAQFWLVIOKP-UHFFFAOYSA-N,120.0030805
+TOX-12432,,4-[diethoxy(methyl)silyl]butan-1-amine,18214,CCO[Si](C)(CCCCN)OCC,YHFFINXFNYQPQA-UHFFFAOYSA-N,44.99912355
+TOX-13193,Fenobucarb,(2-butan-2-ylphenyl) N-methylcarbamate,19588,CCC(C)c1ccccc1OC(=O)NC,DIRFUJHNVNOBMY-UHFFFAOYSA-N,339.9950791
+TOX-13269,Dioxabenzofos,"2-methoxy-2-sulfanylidene-4H-1,3,2lambda5-benzodioxaphosphinine",19657,COP1(=S)OCc2ccccc2O1,OUNSASXJZHBGAI-UHFFFAOYSA-N,1250.011564
+TOX-13349,Ioxynil octanoate,"(4-cyano-2,6-diiodophenyl) octanoate",19730,CCCCCCCC(=O)Oc1c(I)cc(C#N)cc1I,QBEXFUOWUYCXNI-UHFFFAOYSA-N,1239.990022
+TOX-13836,,N-(pyridin-1-ium-1-ylmethyl)octadecanamide,77945,CCCCCCCCCCCCCCCCCC(=O)NC[n+]1ccccc1,NVUBFYYOVIBBBL-UHFFFAOYSA-O,4899.726048
+TOX-14768,mercaptoacetic acid,2-sulfanylacetic acid,1133,O=C(O)CS,CWERGRDVMFNCDR-UHFFFAOYSA-N,47.0005102
+TOX-14769,Phenamidine,4-(4-carbamimidoylphenoxy)benzenecarboximidamide,64948,N=C(N)c1ccc(Oc2ccc(C(=N)N)cc2)cc1,DMABBVCVVXMJDH-UHFFFAOYSA-N,119.9985844
+TOX-15025,Chlorpyrifos-methyl,"dimethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",21803,COP(=S)(OC)Oc1nc(Cl)c(Cl)cc1Cl,HRBKVYFZANMGRE-UHFFFAOYSA-N,2799.678795
+TOX-15315,IPSP,ethylsulfinylmethylsulfanyl-di(propan-2-yloxy)-sulfanylidene-lambda5-phosphane,22083,CCS(=O)CSP(=S)(OC(C)C)OC(C)C,KOTOUBGHZHWCCJ-UHFFFAOYSA-N,1299.833465
+TOX-15400,Nissol,2-fluoro-N-methyl-N-naphthalen-1-ylacetamide,22194,CN(C(=O)CF)c1cccc2ccccc12,ADRPZEYTIFWCBC-UHFFFAOYSA-N,369.9948909
+TOX-15436,dimethyl phosphorofluoridate,[fluoro(methoxy)phosphoryl]oxymethane,80052,COP(=O)(F)OC,XCTATYNREGBPBO-UHFFFAOYSA-N,36.00028115
+TOX-16490,DIOXACARB,"[2-(1,3-dioxolan-2-yl)phenyl] N-methylcarbamate",23421,CNC(=O)Oc1ccccc1C1OCCO1,SDKQRNRRDYRQKY-UHFFFAOYSA-N,1659.94051
+TOX-16648,Danifos,1-chloro-4-(diethoxyphosphorylsulfanylmethylsulfanyl)benzene,23559,CCOP(=O)(OCC)SCSc1ccc(Cl)cc1,ZSAZGCBSZUURAX-UHFFFAOYSA-N,219.995288
+TOX-16835,PROPAPHOS,(4-methylsulfanylphenyl) dipropyl phosphate,23717,CCCOP(=O)(OCCC)Oc1ccc(SC)cc1,PWYIUEFFPNVCMW-UHFFFAOYSA-N,155.9958994
+TOX-17141,cis-Mevinphos,methyl 3-dimethoxyphosphoryloxybut-2-enoate,9560,COC(=O)C=C(C)OP(=O)(OC)OC,GEPDYQSQVLXLEU-UHFFFAOYSA-N,12.00005353
+TOX-17182,Hymexazol,"5-methyl-1,2-oxazol-3-one",24781,Cc1cc(=O)[nH]o1,KGVPNLBXJKTABS-UHFFFAOYSA-N,2000.020183
+TOX-17384,,"[4-[formyl(methyl)amino]-3,5-dimethylphenyl] N-methylcarbamate",25069,CNC(=O)Oc1cc(C)c(N(C)C=O)c(C)c1,YZLKSROUDATCQE-UHFFFAOYSA-N,999.9957685
+TOX-17385,Formamido zectran,"(4-formamido-3,5-dimethylphenyl) N-methylcarbamate",25070,CNC(=O)Oc1cc(C)c(NC=O)c(C)c1,JIYAGTDSFMORMI-UHFFFAOYSA-N,999.9820018
+TOX-17386,,[3-methyl-4-(methylamino)phenyl] N-methylcarbamate,25071,CNC(=O)Oc1ccc(NC)c(C)c1,CIMAHVATEIHIFU-UHFFFAOYSA-N,51.99892917
+TOX-17387,Aminomatacil,(4-amino-3-methylphenyl) N-methylcarbamate,25072,CNC(=O)Oc1ccc(N)c(C)c1,OCYWBKLVMHFSSX-UHFFFAOYSA-N,16.99933966
+TOX-17388,,[4-[formyl(methyl)amino]-3-methylphenyl] N-methylcarbamate,25073,CNC(=O)Oc1ccc(N(C)C=O)c(C)c1,MPQHMJZTYSTFTQ-UHFFFAOYSA-N,499.9910005
+TOX-17389,Formamido matacil,(4-formamido-3-methylphenyl) N-methylcarbamate,25074,CNC(=O)Oc1ccc(NC=O)c(C)c1,QZOYGMYHZQHLFC-UHFFFAOYSA-N,499.9831901
+TOX-17506,,"[3,5-dimethyl-4-(methylamino)phenyl] N-methylcarbamate",25221,CNC(=O)Oc1cc(C)c(NC)c(C)c1,IDDUHPDQEBAKFA-UHFFFAOYSA-N,7.999961594
+TOX-17584,resmethrin,"(5-benzylfuran-3-yl)methyl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate",5053,CC(C)=CC1C(C(=O)OCc2coc(Cc3ccccc3)c2)C1(C)C,VEMKTZHHVJILDY-UHFFFAOYSA-N,4999.305646
+TOX-17585,CHRYSANTHEMIC ACID,"2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylic acid",2743,CC(C)=CC1C(C(=O)O)C1(C)C,XLOPRKKSAJMMEW-UHFFFAOYSA-N,4999.821675
+TOX-17936,CYANOFENPHOS,4-[ethoxy(phenyl)phosphinothioyl]oxybenzonitrile,25669,CCOP(=S)(Oc1ccc(C#N)cc1)c1ccccc1,LRNJHZNPJSPMGK-UHFFFAOYSA-N,599.9545044
+TOX-18110,Carpronium,(4-methoxy-4-oxobutyl)-trimethylazanium,2582,COC(=O)CCC[N+](C)(C)C,XQSLKIBWQSTAGK-UHFFFAOYSA-N,519.9772833
+TOX-18131,AMIPHOS,N-(2-dimethoxyphosphinothioylsulfanylethyl)acetamide,25815,COP(=S)(OC)SCCNC(C)=O,BETVNUCOOCCCIO-UHFFFAOYSA-N,472.0194005
+TOX-18400,,methyl N-(2-chloroethyl)-N-nitrosocarbamate,26121,COC(=O)N(CCCl)N=O,ZIVWROYTZSSKDC-UHFFFAOYSA-N,61.99851112
+TOX-18972,Chrysanthemoyl chloride,"2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carbonyl chloride",26620,CC(C)=CC1C(C(=O)Cl)C1(C)C,VNTCVNLNEOVBEE-UHFFFAOYSA-N,4249.954468
+TOX-19569,stearic acid,octadecanoic acid,5281,CCCCCCCCCCCCCCCCCC(=O)O,QIQXTHQIDYTFRH-UHFFFAOYSA-N,2500.140606
+TOX-19588,Cartap,S-[3-carbamoylsulfanyl-2-(dimethylamino)propyl] carbamothioate,27159,CN(C)C(CSC(N)=O)CSC(N)=O,IRUJZVNXZWPBMU-UHFFFAOYSA-N,999.7893408
+TOX-21940,ISOXATHION,"diethoxy-[(5-phenyl-1,2-oxazol-3-yl)oxy]-sulfanylidene-lambda5-phosphane",29307,CCOP(=S)(OCC)Oc1cc(-c2ccccc2)on1,SDMSCIWHRZJSRN-UHFFFAOYSA-N,192.9969202
+TOX-22268,,"2-[(2-amino-5-carbamoyloxy-3,4-dihydroxypentanoyl)amino]-2-[3,4-dihydroxy-5-[5-(hydroxymethyl)-2,4-dioxopyrimidin-1-yl]oxolan-2-yl]acetic acid",418922,NC(=O)OCC(O)C(O)C(N)C(=O)NC(C(=O)O)C1OC(n2cc(CO)c(=O)[nH]c2=O)C(O)C1O,YFZNSPMAOIVQRP-UHFFFAOYSA-N,1199.978716
+TOX-22273,KASUAGAMYCIN,"2-amino-2-[5-amino-2-methyl-6-(2,3,4,5,6-pentahydroxycyclohexyl)oxyoxan-3-yl]iminoacetic acid",265071,CC1OC(OC2C(O)C(O)C(O)C(O)C2O)C(N)CC1NC(=N)C(=O)O,PVTHJAPFENJVNC-UHFFFAOYSA-N,9999.841851
+TOX-23811,Chloromethanesulfonamide,chloromethanesulfonamide,167979,NS(=O)(=O)CCl,AVXHCUKQISJQBN-UHFFFAOYSA-N,5000.077177
+TOX-24091,CYANAZINE,"2-[[4-chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino]-2-methylpropanenitrile",30773,CCNc1nc(Cl)nc(NC(C)(C)C#N)n1,MZZBPDKVEFVLFF-UHFFFAOYSA-N,6589.780971
+TOX-24094,Oryzon,"2-hydroxy-2-(2,3,4,5,6-pentachlorophenyl)acetonitrile",30774,N#CC(O)c1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,SMARLDCRQUMZJR-UHFFFAOYSA-N,2500.204668
+TOX-24321,,2-(diethylamino)ethylsulfanyl-methyl-oxophosphanium,6338203,CCN(CC)CCS[PH](C)=O,LFCGCELNJNZDCG-UHFFFAOYSA-N,0.14922568
+TOX-24428,Tetrachlorvinphos,"[2-chloro-1-(2,4,5-trichlorophenyl)ethenyl] dimethyl phosphate",13745,COP(=O)(OC)OC(=CCl)c1cc(Cl)c(Cl)cc1Cl,UBCKGWBNUIFUST-UHFFFAOYSA-N,7500.737785
+TOX-24848,Prallethrin,"(2-methyl-4-oxo-3-prop-2-ynylcyclopent-2-en-1-yl) 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate",9839306,C#CCC1=C(C)C(OC(=O)C2C(C=C(C)C)C2(C)C)CC1=O,SMKRKQBMYOFFMU-UHFFFAOYSA-N,615.0040947
+TOX-24849,FURAMETHRIN,"(5-prop-2-ynylfuran-2-yl)methyl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate",31622,C#CCc1ccc(COC(=O)C2C(C=C(C)C)C2(C)C)o1,FSYXMFXBRJFYBS-UHFFFAOYSA-N,5000.506333
+TOX-25223,HEPTENOPHOS,"(7-chloro-6-bicyclo[3.2.0]hepta-2,6-dienyl) dimethyl phosphate",62773,COP(=O)(OC)OC1=C(Cl)C2C=CCC12,GBAWQJNHVWMTLU-UHFFFAOYSA-N,1999.936159
+TOX-25233,Thiophanate-methyl,methyl N-[[2-(methoxycarbonylcarbamothioylamino)phenyl]carbamothioyl]carbamate,3032791,COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC,QGHREAKMXXNCOA-UHFFFAOYSA-N,9999.941584
+TOX-25234,Thiophanate,ethyl N-[[2-(ethoxycarbonylcarbamothioylamino)phenyl]carbamothioyl]carbamate,3032792,CCOC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OCC,YFNCATAIYKQPOO-UHFFFAOYSA-N,15001.78159
+TOX-26283,Iprobenfos,di(propan-2-yloxy)phosphorylsulfanylmethylbenzene,33294,CC(C)OP(=O)(OC(C)C)SCc1ccccc1,FCOAHACKGGIURQ-UHFFFAOYSA-N,3999.875154
+TOX-26863,PROPARTHRIN,"(2-methyl-5-prop-2-ynylfuran-3-yl)methyl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate",33747,C#CCc1cc(COC(=O)C2C(C=C(C)C)C2(C)C)c(C)o1,WXBHKHTWAPLUSQ-UHFFFAOYSA-N,5000.033284
+TOX-26937,Fthalide,"4,5,6,7-tetrachloro-3H-2-benzofuran-1-one",33791,O=C1OCc2c(Cl)c(Cl)c(Cl)c(Cl)c21,NMWKWBPNKPGATC-UHFFFAOYSA-N,9999.485123
+TOX-27480,THIOBENCARB,"S-[(4-chlorophenyl)methyl] N,N-diethylcarbamothioate",34192,CCN(CC)C(=O)SCc1ccc(Cl)cc1,QHTQREMOGMZHJV-UHFFFAOYSA-N,9999.767243
+TOX-27536,ALLETHRIN,"(2-methyl-4-oxo-3-prop-2-enylcyclopent-2-en-1-yl) 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate",11442,C=CCC1=C(C)C(OC(=O)C2C(C=C(C)C)C2(C)C)CC1=O,ZCVAOQKBXKSDMS-UHFFFAOYSA-N,1199.944446
+TOX-27944,Citrazon,"[(3-chloro-2,6-dimethoxybenzoyl)-ethylamino] benzoate",34475,CCN(OC(=O)c1ccccc1)C(=O)c1c(OC)ccc(Cl)c1OC,HOERQTQCTISLFR-UHFFFAOYSA-N,15000.12371
+TOX-29380,PROCYMIDONE,"3-(3,5-dichlorophenyl)-1,5-dimethyl-3-azabicyclo[3.1.0]hexane-2,4-dione",36242,CC12CC1(C)C(=O)N(c1cc(Cl)cc(Cl)c1)C2=O,QXJKBPAVAHBARF-UHFFFAOYSA-N,7799.670593
+TOX-29396,Chlomethoxyfen,"4-(2,4-dichlorophenoxy)-2-methoxy-1-nitrobenzene",36250,COc1cc(Oc2ccc(Cl)cc2Cl)ccc1[N+](=O)[O-],DXXVCXKMSWHGTF-UHFFFAOYSA-N,4999.936328
+TOX-30260,Prothiofos,"(2,4-dichlorophenoxy)-ethoxy-propylsulfanyl-sulfanylidene-lambda5-phosphane",36870,CCCSP(=S)(OCC)Oc1ccc(Cl)cc1Cl,FITIWKDOCAUBQD-UHFFFAOYSA-N,1599.754384
+TOX-30604,DIFLUBENZURON,"N-[(4-chlorophenyl)carbamoyl]-2,6-difluorobenzamide",37123,O=C(NC(=O)c1c(F)cccc1F)Nc1ccc(Cl)cc1,QQQYTWIFVNKMRW-UHFFFAOYSA-N,6199.86031
+TOX-30619,Sulprofos,ethoxy-(4-methylsulfanylphenoxy)-propylsulfanyl-sulfanylidene-lambda5-phosphane,37125,CCCSP(=S)(OCC)Oc1ccc(SC)cc1,JXHJNEJVUNHLKO-UHFFFAOYSA-N,5000.666754
+TOX-31283,Phosdiphen,"bis(2,4-dichlorophenyl) ethyl phosphate",92304,CCOP(=O)(Oc1ccc(Cl)cc1Cl)Oc1ccc(Cl)cc1Cl,,8999.480797
+TOX-31303,ISOTHIOATE,dimethoxy-(2-propan-2-ylsulfanylethylsulfanyl)-sulfanylidene-lambda5-phosphane,37490,COP(=S)(OC)SCCSC(C)C,SPCNPOWOBZQWJK-UHFFFAOYSA-N,240.0129041
+TOX-32596,Fenpropathrin,"[cyano-(3-phenoxyphenyl)methyl] 2,2,3,3-tetramethylcyclopropane-1-carboxylate",47326,CC1(C)C(C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2)C1(C)C,XQUXKZZNEFRCAW-UHFFFAOYSA-N,739.9364688
+TOX-32631,Bisthiosemi,[(2-carbamothioylhydrazinyl)methylamino]thiourea,3037919,NC(=S)NNCNNC(N)=S,JKSKMVKDSOOOFA-UHFFFAOYSA-N,500.0283079
+TOX-33496,Fluoroimide,"3,4-dichloro-1-(4-fluorophenyl)pyrrole-2,5-dione",93228,O=C1C(Cl)=C(Cl)C(=O)N1c1ccc(F)cc1,IPENDKRRWFURRE-UHFFFAOYSA-N,4999.788501
+TOX-34099,Daimuron,1-(4-methylphenyl)-3-(2-phenylpropan-2-yl)urea,39238,Cc1ccc(NC(=O)NC(C)(C)c2ccccc2)cc1,NNYRZQHKCHEXSD-UHFFFAOYSA-N,3499.869577
+TOX-34486,ISOPROTHIOLANE,"dipropan-2-yl 2-(1,3-dithiolan-2-ylidene)propanedioate",39681,CC(C)OC(=O)C(C(=O)OC(C)C)=C1SCCS1,UFHLMYOGRXOCSL-UHFFFAOYSA-N,10249.78822
+TOX-35459,Naproanilide,2-naphthalen-2-yloxy-N-phenylpropanamide,40413,CC(Oc1ccc2ccccc2c1)C(=O)Nc1ccccc1,LVKTWOXHRYGDMM-UHFFFAOYSA-N,2999.485153
+TOX-35665,NANAOMYCIN,"2-(9-hydroxy-1-methyl-5,10-dioxo-3,4-dihydro-1H-benzo[g]isochromen-3-yl)acetic acid",40586,CC1OC(CC(=O)O)CC2=C1C(=O)c1c(O)cccc1C2=O,ZCJHPTKRISJQTN-UHFFFAOYSA-N,51.99965599
+TOX-36553,,"4-methylhept-4-en-1-yn-3-yl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate",41073,C#CC(OC(=O)C1C(C=C(C)C)C1(C)C)C(C)=CCC,YUGWDVYLFSETPE-UHFFFAOYSA-N,4999.92712
+TOX-36768,DEXA,"N,N-diethyl-2,4-dimethylbenzamide",41198,CCN(CC)C(=O)c1ccc(C)cc1C,YQCGAQBECDYQFQ-UHFFFAOYSA-N,5099.975155
+TOX-37275,,"methyl 2,2-dimethyl-4,6-dioxo-5-(N-prop-2-enoxy-C-propylcarbonimidoyl)cyclohexane-1-carboxylate",2834777,C=CCON=C(CCC)C1C(=O)CC(C)(C)C(C(=O)OC)C1=O,MSNWHIVXIUIVPC-UHFFFAOYSA-N,1380.04694
+TOX-37383,MEPRONIL,2-methyl-N-(3-propan-2-yloxyphenyl)benzamide,41632,Cc1ccccc1C(=O)Nc1cccc(OC(C)C)c1,BCTQJXQXJVLSIG-UHFFFAOYSA-N,9999.851502
+TOX-38120,Tolclofos-methyl,"(2,6-dichloro-4-methylphenoxy)-dimethoxy-sulfanylidene-lambda5-phosphane",91664,COP(=S)(OC)Oc1c(Cl)cc(C)cc1Cl,OBZIQQJJIKNWNO-UHFFFAOYSA-N,4999.983396
+TOX-38787,Pyrazolynate,"[4-(2,4-dichlorobenzoyl)-2,5-dimethylpyrazol-3-yl] 4-methylbenzenesulfonate",42619,Cc1ccc(S(=O)(=O)Oc2c(C(=O)c3ccc(Cl)cc3Cl)c(C)nn2C)cc1,ASRAWSBMDXVNLX-UHFFFAOYSA-N,4999.772371
+TOX-39442,Laurocapram,1-dodecylazepan-2-one,42981,CCCCCCCCCCCCN1CCCCCC1=O,AXTGDCSMTYGJND-UHFFFAOYSA-N,8000.454731
+TOX-40058,Metoxadiazone,"5-methoxy-3-(2-methoxyphenyl)-1,3,4-oxadiazol-2-one",43365,COc1nn(-c2ccccc2OC)c(=O)o1,LTMQQEMGRMBUSL-UHFFFAOYSA-N,5000.000003
+TOX-41163,FENOTHIOCARB,"S-(4-phenoxybutyl) N,N-dimethylcarbamothioate",44178,CN(C)C(=O)SCCCCOc1ccccc1,HMIBKHHNXANVHR-UHFFFAOYSA-N,7999.77898
+TOX-41907,Chlobenthiazone,"4-chloro-3-methyl-1,3-benzothiazol-2-one",173964,Cn1c(=O)sc2cccc(Cl)c21,QCPASDYEQAVIJF-UHFFFAOYSA-N,2499.97496
+TOX-43153,,2-(2-chloroethylsulfanyl)ethyl-bis(2-hydroxyethyl)sulfanium,81666,OCC[S+](CCO)CCSCCCl,OFNJBATUOFAUIJ-UHFFFAOYSA-N,14.99896265
+TOX-43392,,"2,4-dichloro-6-nitrophenol",11871,O=[N+]([O-])c1cc(Cl)cc(Cl)c1O,LYPMXMBQPXPNIQ-UHFFFAOYSA-N,254.9999997
+TOX-43450,,dichloro(heptyl)arsane,46867,CCCCCCC[As](Cl)Cl,DTEQYCHDTQLFAV-UHFFFAOYSA-N,39.99918371
+TOX-43451,,dichloro(hexyl)arsane,46868,CCCCCC[As](Cl)Cl,DJVOOQCZZHPSRU-UHFFFAOYSA-N,19.99930736
+TOX-44182,,N-cyclohexylbutane-1-sulfonamide,47495,CCCCS(=O)(=O)NC1CCCCC1,MBMOGJGVYAHBLN-UHFFFAOYSA-N,7560.000004
+TOX-44196,,2-(dimethylamino)-8-methyl-5-propan-2-ylchromen-4-one,3049522,Cc1ccc(C(C)C)c2c(=O)cc(N(C)C)oc12,OVFZCABVDALRTG-UHFFFAOYSA-N,49.99959241
+TOX-45156,Methasulfocarb,[4-(methylcarbamoylsulfanyl)phenyl] methanesulfonate,93362,CNC(=O)Sc1ccc(OS(C)(=O)=O)cc1,IXJOSTZEBSTPAG-UHFFFAOYSA-N,4999.540798
+TOX-46566,,1-methoxy-1-methyl-3-[4-[2-(4-methylphenyl)ethoxy]phenyl]urea,93385,CON(C)C(=O)Nc1ccc(OCCc2ccc(C)cc2)cc1,XZNOYUSOBQSRNI-UHFFFAOYSA-N,5000.238565
+TOX-47677,,"5-hydroxy-2-[5-hydroxy-4-methoxy-2-(3-methyl-7-oxo-5,10-diazatetracyclo[7.4.0.01,12.02,6]trideca-2(6),3,8-triene-10-carbonyl)-7,8-dihydro-3H-pyrrolo[3,2-e]indole-6-carbonyl]-4-methoxy-7,8-dihydro-3H-pyrrolo[3,2-e]indole-6-carboxamide",73240,COc1c(O)c2c(c3cc(C(=O)N4CCc5c4c(O)c(OC)c4[nH]c(C(=O)N6CC7CC78C6=CC(=O)c6[nH]cc(C)c68)cc54)[nH]c13)CCN2C(N)=O,UOWVMDUEMSNCAV-UHFFFAOYSA-N,8.799849933
+TOX-47868,Trichlamide,"N-(1-butoxy-2,2,2-trichloroethyl)-2-hydroxybenzamide",115078,CCCCOC(NC(=O)c1ccccc1O)C(Cl)(Cl)Cl,NHTFLYKPEGXOAN-UHFFFAOYSA-N,4999.500931
+TOX-50072,,trimethyl(octadecyl)azanium,8156,CCCCCCCCCCCCCCCCCC[N+](C)(C)C,PDSVZUAJOIQXRK-UHFFFAOYSA-N,1599.969289
+TOX-51735,,"2-(N-ethoxy-C-propylcarbonimidoyl)-5-(2-ethylsulfanylpropyl)cyclohexane-1,3-dione",484898,CCCC(=NOCC)C1C(=O)CC(CC(C)SCC)CC1=O,NMHGOXYVOKDNHF-UHFFFAOYSA-N,5000.152675
+TOX-52249,BROMOBUTIDE,"2-bromo-3,3-dimethyl-N-(2-phenylpropan-2-yl)butanamide",53079,CC(C)(NC(=O)C(Br)C(C)(C)C)c1ccccc1,WZDDLAZXUYIVMU-UHFFFAOYSA-N,4999.823855
+TOX-53222,Tecloftalam,"2,3,4,5-tetrachloro-6-[(2,3-dichlorophenyl)carbamoyl]benzoic acid",53469,O=C(O)c1c(Cl)c(Cl)c(Cl)c(Cl)c1C(=O)Nc1cccc(Cl)c1Cl,ROZUQUDEWZIBHV-UHFFFAOYSA-N,999.9642794
+TOX-53347,QUIZALOFOP-ETHYL,ethyl 2-[4-(6-chloroquinoxalin-2-yl)oxyphenoxy]propanoate,53518,CCOC(=O)C(C)Oc1ccc(Oc2cnc3cc(Cl)ccc3n2)cc1,OSUHJPCHFDQAIT-UHFFFAOYSA-N,9999.785417
+TOX-53512,,"2,3-bis[3-(4-methoxyphenyl)prop-2-enoyloxy]propyl 2-ethylhexanoate",3059598,CCCCC(CC)C(=O)OCC(COC(=O)C=Cc1ccc(OC)cc1)OC(=O)C=Cc1ccc(OC)cc1,WUOWZVFFBAMVAU-UHFFFAOYSA-N,568.9609146
+TOX-53829,,4-chloro-3-(dichloromethyl)-2-hydroxy-2H-furan-5-one,53665,O=C1OC(O)C(C(Cl)Cl)=C1Cl,WNTRMRXAGJOLCU-UHFFFAOYSA-N,129.9970107
+TOX-54741,Hexythiazox,"5-(4-chlorophenyl)-N-cyclohexyl-4-methyl-2-oxo-1,3-thiazolidine-3-carboxamide",4560140,CC1C(c2ccc(Cl)cc2)SC(=O)N1C(=O)NC1CCCCC1,XGWIJUOSCAQSSV-UHFFFAOYSA-N,5000.184199
+TOX-55945,Etofenprox,1-ethoxy-4-[2-methyl-1-[(3-phenoxyphenyl)methoxy]propan-2-yl]benzene,71245,CCOc1ccc(C(C)(C)COCc2cccc(Oc3ccccc3)c2)cc1,YREQHYQNNWYQCJ-UHFFFAOYSA-N,2140.022737
+TOX-56569,Inabenfide,N-[4-chloro-2-[hydroxy(phenyl)methyl]phenyl]pyridine-4-carboxamide,92401,O=C(Nc1ccc(Cl)cc1C(O)c1ccccc1)c1ccncc1,PFDCOZXELJAUTR-UHFFFAOYSA-N,5000.08855
+TOX-56758,Benzofenap,"2-[4-(2,4-dichloro-3-methylbenzoyl)-2,5-dimethylpyrazol-3-yl]oxy-1-(4-methylphenyl)ethanone",94686,Cc1ccc(C(=O)COc2c(C(=O)c3ccc(Cl)c(C)c3Cl)c(C)nn2C)cc1,JDWQITFHZOBBFE-UHFFFAOYSA-N,4999.779749
+TOX-57702,Clomeprop,"2-(2,4-dichloro-3-methylphenoxy)-N-phenylpropanamide",93482,Cc1c(Cl)ccc(OC(C)C(=O)Nc2ccccc2)c1Cl,BDQWWOHKFDSADC-UHFFFAOYSA-N,4999.892046
+TOX-59854,Pyrazosulfuron,"5-[(4,6-dimethoxypyrimidin-2-yl)carbamoylsulfamoyl]-1-methylpyrazole-4-carboxylic acid",93525,COc1cc(OC)nc(NC(=O)NS(=O)(=O)c2c(C(=O)O)cnn2C)n1,VXMNDQDDWDDKOQ-UHFFFAOYSA-N,1051.983663
+TOX-63528,Fenchlorazole,"1-(2,4-dichlorophenyl)-5-(trichloromethyl)-1,2,4-triazole-3-carboxylic acid",93536,O=C(O)c1nc(C(Cl)(Cl)Cl)n(-c2ccc(Cl)cc2Cl)n1,HKELWJONQIFBPO-UHFFFAOYSA-N,1999.861489
+TOX-72252,,N-benzyl-7H-purin-6-amine,62389,c1ccc(CNc2ncnc3nc[nH]c23)cc1,NWBJYWHLCVSVIJ-UHFFFAOYSA-N,4999.88902
+TOX-72707,Xylylcarb,"(3,4-dimethylphenyl) N-methylcarbamate",17040,CNC(=O)Oc1ccc(C)c(C)c1,WCJYTPVNMWIZCG-UHFFFAOYSA-N,1500.008369
+TOX-72729,,"N,N-diethyl-2-phenylacetamide",17076,CCN(CC)C(=O)Cc1ccccc1,UXDAWVUDZLBBAM-UHFFFAOYSA-N,1599.966542
+TOX-72785,AURAMINE,"4-[4-(dimethylamino)benzenecarboximidoyl]-N,N-dimethylaniline",10298,CN(C)c1ccc(C(=N)c2ccc(N(C)C)cc2)cc1,JPIYZTWMUGTEHX-UHFFFAOYSA-N,299.993268
+TOX-72996,Isofenchlorfos,1-chloro-4-dimethoxyphosphorylsulfanylbenzene,76818,COP(=O)(OC)Sc1ccc(Cl)cc1,MUPYMRJBEZFVMT-UHFFFAOYSA-N,920.0036404
+TOX-73666,Tetramethrin,"(1,3-dioxo-4,5,6,7-tetrahydroisoindol-2-yl)methyl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate",83975,CC(C)=CC1C(C(=O)OCN2C(=O)C3=C(CCCC3)C2=O)C1(C)C,CXBMCYHAMVGWJQ-UHFFFAOYSA-N,12247.00525
+TOX-74501,phenothrin,"(3-phenoxyphenyl)methyl 2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate",4767,CC(C)=CC1C(C(=O)OCc2cccc(Oc3ccccc3)c2)C1(C)C,SBNFWQZLDJGRLK-UHFFFAOYSA-N,4999.17251
+TOX-76467,Pencycuron,1-[(4-chlorophenyl)methyl]-1-cyclopentyl-3-phenylurea,91692,O=C(Nc1ccccc1)N(Cc1ccc(Cl)cc1)C1CCCC1,OGYFATSSENRIKG-UHFFFAOYSA-N,4999.346195
+TOX-76731,ufenamate,butyl 2-[3-(trifluoromethyl)anilino]benzoate,5632,CCCCOC(=O)c1ccccc1Nc1cccc(C(F)(F)F)c1,JDLSRXWHEBFHNC-UHFFFAOYSA-N,2999.635386
+TOX-76771,Diethofencarb,"propan-2-yl N-(3,4-diethoxyphenyl)carbamate",91742,CCOc1ccc(NC(=O)OC(C)C)cc1OCC,LNJNFVJKDJYTEU-UHFFFAOYSA-N,4999.906483
+TOX-77525,Pyributicarb,O-(3-tert-butylphenyl) N-(6-methoxypyridin-2-yl)-N-methylcarbamothioate,93486,COc1cccc(N(C)C(=S)Oc2cccc(C(C)(C)C)c2)n1,VTRWMTJQBQJKQH-UHFFFAOYSA-N,4999.198066
+TOX-80834,,benzene,241,c1ccccc1,UHOVQNZJYSORNB-UHFFFAOYSA-N,47.99754205
